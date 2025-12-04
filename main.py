@@ -109,7 +109,10 @@ async def identify_face(file: UploadFile):
     return {"match": False}
 
 
+<<<<<<< HEAD:face_check.py
 
 # if __name__ == "__main__":
 #     import uvicorn
 #     uvicorn.run(app, host="127.0.0.1", port=8000)
+=======
+>>>>>>> 32c338dc594fe82b229f284c5657fc420729b609:main.py
