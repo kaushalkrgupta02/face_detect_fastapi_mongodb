@@ -1,0 +1,10 @@
+fastapi
+python-multipart
+torch
+torchvision
+pillow
+facenet-pytorch
+pymongo
+scipy
+python-dotenv
+uvicorn
